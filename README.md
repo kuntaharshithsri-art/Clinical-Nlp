@@ -211,9 +211,9 @@ pandas>=2.2.0            # Data handling for dashboard
 
 ## 👨‍💻 Author
 
-**Khemant** · [@khemant11](https://huggingface.co/khemant11)
+**K.Harshith Sri** · [@kuntaharshithsri-art](https://huggingface.co/khemant11)
 
-🌐 **Live Demo**: [https://huggingface.co/spaces/khemant11/clinical-nlp-summarizer](https://huggingface.co/spaces/khemant11/clinical-nlp-summarizer)
+🌐 **Live Demo**: [https://huggingface.co/spaces/kuntaharshithsri-art/clinical-nlp-summarizer](https://huggingface.co/spaces/khemant11/clinical-nlp-summarizer)
 
 ---
 
