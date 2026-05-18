@@ -16,7 +16,9 @@ pinned: false
 
 ### AI-Powered Clinical Intelligence System
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-HuggingFace%20Spaces-blue?style=for-the-badge)](https://huggingface.co/spaces/khemant11/clinical-nlp-summarizer)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-HuggingFace%20Spaces-blue?style=for-the-badge)]
+ [https://huggingface.co/spaces/kuntaharshithsri-art/clinical-nlp-summarizer](https://huggingface.co/spaces/khemant11/clinical-nlp-summarizer)
+
 [![Python](https://img.shields.io/badge/Python-3.10-green?style=for-the-badge&logo=python)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32-red?style=for-the-badge&logo=streamlit)](https://streamlit.io)
 [![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Transformers-yellow?style=for-the-badge)](https://huggingface.co)
